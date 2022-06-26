@@ -24,7 +24,7 @@ Using propositional Logic defines the possibility of agent's next move.
 ### STEP 7:
 Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 ## PROGRAM
-~~~
+```python
 from utils import *
 from logic import *
 char=['P','B','W','S']
@@ -89,7 +89,7 @@ wumpus_kb.tell(B32 | '<=>' | ((P33| P42)))
 wumpus_kb.tell(B34 | '<=>' | ((P33| P44)))
 wumpus_kb.clauses
 wumpus_kb.ask_if_true(~P41)
-~~~
+```
 ## OUTPUT
 ### Checking in algorithm:
 ![output4](outttt1.png)
