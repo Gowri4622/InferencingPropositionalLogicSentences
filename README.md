@@ -1,4 +1,6 @@
-# Inferencing Propositional Logic Sentences
+### EX NO : 07
+### DATE  : 23.06.2022
+# <p align="center"> Inferencing Propositional Logic Sentences </p>
 
 ## AIM
 
@@ -19,6 +21,9 @@ creating a new knowledge base for agent, with a function called propKB().
 Mentioning the labels in the wumpus game cell for location in the function of expressions.
 ### STEP 5:
 Using wumpus_kb.tell() to define the environment of the wumpus game.
+
+</br>
+
 ### STEP 6:
 Using propositional Logic defines the possibility of agent's next move.
 ### STEP 7:
