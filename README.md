@@ -100,16 +100,55 @@ wumpus_kb.tell(B34 | '<=>' | ((P33| P44)))
 wumpus_kb.clauses
 wumpus_kb.ask_if_true(~P41)
 ```
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## OUTPUT
 ### Checking in algorithm:
 ![output4](outttt1.png)
 ![output5](fin.png)
 ### Propositional logic:
 ![output6](log.png)
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
 ### Starting of the game:
 ![output1](STATR.png)
 ### Mid of the game:
 ![output2](BEF.png)
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ### end of the game:
 ![output3](OVER.png)
 ## RESULT
